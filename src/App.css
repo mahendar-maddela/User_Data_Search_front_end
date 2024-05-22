@@ -1,0 +1,53 @@
+ .body {
+    background-color: rgb(183, 221, 250);
+    min-height: 100vh;
+}
+.navbarbg {
+    background-color: rgb(144, 188, 224);
+}
+.main_container {
+    margin-top: 30px;
+    width: 100%;
+    flex-wrap: nowrap;
+    
+}
+
+.parent  {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 15px;
+    display: flex;
+    
+   
+    
+}
+
+.left_side_container, .right_side_container {
+    width: 100%;
+    height: 200px;
+    background-color: whitesmoke;
+    margin-bottom: 15px; 
+}
+
+.middle_side_container {
+    width: 100%; 
+    max-width: 770px; 
+    height: 200px;
+    background-color: whitesmoke;
+}
+
+.search_bar {
+    max-width: 500px;
+}
+.button_style{
+    border: none;
+    font-size: large;
+}
+.booking-form{
+    width: 600px;
+    background-color:  rgb(144, 188, 224);
+    height: 100vh;
+}
+
+
+ 

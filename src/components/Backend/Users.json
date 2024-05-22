@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "ma",
+      "email": "ma@gmail.com",
+      "phone": "12334",
+      "qualification": "bsc",
+      "address": "11 hyds",
+      "id": "5c69"
+    },
+    {
+      "id": "6b92",
+      "name": "ma",
+      "email": "m@gmail.com",
+      "phone": "112",
+      "qualification": "bsc",
+      "address": "11 hyd"
+    },
+    {
+      "id": "0496",
+      "name": "mah",
+      "email": "maiku@gmail.com",
+      "phone": "334",
+      "qualification": "fffd",
+      "address": "2efdvfd"
+    }
+  ]
+}
